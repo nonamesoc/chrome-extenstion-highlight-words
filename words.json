@@ -1,0 +1,14 @@
+{
+"word1": {
+    "text": "яблоко",
+    "color": "red"
+    },
+"word2":{
+    "text": "лимон",
+    "color": "yellow"
+    },
+"word3":{
+    "text": "киви",
+    "color": "green"
+    }
+}
